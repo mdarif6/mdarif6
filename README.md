@@ -1,13 +1,25 @@
-# Hi, I'm Md Arif! 👋
+### Hi, I'm Md Arif! 👋
 
 ## 🚀 About Me
 
-I'm currently working as a Systems Administrator
-and Learning Web Development.
+Frontend Engineer, Building Interactive UI's with React.
+
 
 ## 🛠 Skills
 
-Javascript, HTML, CSS and ReactJS
+ReactJS, JavaScript (ES6), Redux, React-Redux, REST API, Context API, Reducer, Font Awesome, Git, GitHub, Visual Studio Code (VS Code), npm, Terminal, HTML5 and CSS3.
+
+## Projects
+- [E-Commerce App](https://ha-clothing.netlify.app/)
+- [Video Library](https://mytv18.netlify.app/)
+- [Note Taking App](https://typenotes-app.netlify.app/)
+- [Quiz App](https://sm-quiz.netlify.app/)
+- [Component Library](https://pandaui.netlify.app/)
+
+
+
+
+
 
 ## 🔗 Links
 
