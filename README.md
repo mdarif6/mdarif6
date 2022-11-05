@@ -8,7 +8,14 @@ Frontend Engineer, Building Interactive UI's with React.
 
 ## 🛠 Skills
 
-ReactJS, JavaScript (ES6), Redux, React-Redux, REST API, Context API, Reducer, Font Awesome, Git, GitHub, Visual Studio Code (VS Code), npm, Terminal, HTML5 and CSS3.
+- ReactJS 
+- JavaScript (ES6) 
+- Redux, React-Redux 
+- REST API
+- Context API
+- Git, GitHub
+- Visual Studio Code (VS Code), npm, Terminal
+- HTML5 and CSS3.
 
 ## Projects
 
